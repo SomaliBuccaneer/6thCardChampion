@@ -1,6 +1,5 @@
 6thCardChampion
 ===============
-Welcome to the 6thCardChampion wiki!
 
 Project Scope:
 
