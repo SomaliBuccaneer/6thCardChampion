@@ -16,7 +16,7 @@ This implementation of 6th Card Champion will be a client/server implementation,
 6th Card Champion is a single product that is not a part of any higher-level project. The program comes in two parts:
 
 A Java JAR file to launch the server process. 
-A Java JAR file to launch a client process.
+<p>A Java JAR file to launch a client process.<p>
 
 See the separate top-level Class Model for an overview of the 6th Card Champion system.
 
