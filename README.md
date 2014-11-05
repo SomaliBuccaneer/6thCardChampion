@@ -21,14 +21,14 @@ See the separate top-level Class Model for an overview of the 6th Card Champion 
 
 #Issues List
 
-1)The game is unplayable to any realistic extend.
+1) The game is unplayable to any realistic extend.
 
-2)Action cards such as reverse or draw two do nothing.
+2) Action cards such as reverse or draw two do nothing.
 
-3)There is currently no logic behind controlling what cards are legit to play.
+3) There is currently no logic behind controlling what cards are legit to play.
 
-4)If all cards are drawn, exceptions will be thrown.
+4) If all cards are drawn, exceptions will be thrown.
 
-5)Two users can join with the same nickname. This will cause many problems.
+5) Two users can join with the same nickname. This will cause many problems.
 
-6)Opponent player card counts are not updated. They will always show 5.
+6) Opponent player card counts are not updated. They will always show 5.
