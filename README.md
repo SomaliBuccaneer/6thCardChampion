@@ -1,17 +1,17 @@
 6thCardChampion
 ===============
 
-Project Scope:
+#Project Scope:
 
 This project should provide a stable, network based multiplayer capable version of 6th Card Champion that is playable for 5 players.
 
-Overview:
+#Overview:
 
 6th Card Champion is a card game designed to be multiplayer. The aim of the game is to guess your opponents 6th card through a series of 5 rounds in order to win.
 
 This implementation of 6th Card Champion will be a client/server implementation, with a user message feature and simple graphical UI.
 
-Product Perspective:
+#Product Perspective:
 
 6th Card Champion is a single product that is not a part of any higher-level project. The program comes in two parts:
 
@@ -19,7 +19,7 @@ A Java JAR file to launch the server process. A Java JAR file to launch a client
 
 See the separate top-level Class Model for an overview of the 6th Card Champion system.
 
-Issues List
+#Issues List
 
 1)The game is unplayable to any realistic extend.
 
